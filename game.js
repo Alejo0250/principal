@@ -74,7 +74,7 @@ function spawnCoin() {
 
   setTimeout(() => {
     coin.remove();
-  }, 5000);
+  }, 6000);
 }
 
 function collectCoins() {
